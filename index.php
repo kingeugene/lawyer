@@ -1,3 +1,4 @@
+<?php ?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -10,10 +11,22 @@
     <link rel="stylesheet" href="style/style.css">
 </head>
 <body>
-<?php 
+<?php
     include "./base/header.php"
 ?>
-<main class="main">
+<main class="main container">
+    <h1>Про мене</h1>
+    <div class="aboutMe">
+        <div class="aboutMe__iconWrap">
+            <div class="aboutMe__icon aboutMe__iconMain"><img src="icon.jpeg" alt="lawyer"></div>
+            <div class="aboutMe__icon"><img src="icon.jpeg" alt="lawyer"></div>
+            <div class="aboutMe__icon"><img src="/icon.jpeg" alt="lawyer"></div>
+        </div>
+        <div class="aboutMe__text">
+            Адвокат  Щербина Євгеній Євгенійович  з   10  річним стажем роботи
+            <br> Телефон : 066-884-53-50 097-02-04-083
+        </div>
+    </div>
 </main>
 
 <?php
@@ -22,3 +35,4 @@
 <script src="/js/main.js"></script>
 </body>
 </html>
+

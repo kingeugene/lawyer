@@ -1,6 +1,15 @@
 @import "./vars";
 @import "./deps";
 
+a {
+    text-decoration: none !important;
+}
+
+h1 {
+    padding: 25px;
+    text-align: center;
+}
+
 //header
 .header {
     position: fixed;
@@ -43,7 +52,10 @@
         transition: 0.2s;
         font-weight: 500;
         cursor: pointer;
-        color: $white;
+
+        a {
+            color: $white;
+        }
 
         &:hover {
             opacity: 0.8;
@@ -178,6 +190,7 @@
 //main
 .main {
     min-height: calc(100vh - 61px);
+    padding-top: 70px;
 }
 
 //footer
@@ -189,4 +202,33 @@
     padding: 20px;
     font-size: 14px;
     color: $white;
+}
+
+//aboutMe
+.aboutMe {
+    display: flex;
+    justify-content: space-between;
+
+    &__icon {
+        width: 50%;
+
+        img {
+            width: 100%;
+            object-fit: contain;
+        }
+
+        &Wrap {
+            display: flex;
+            flex-wrap: wrap;
+            width: 55%;
+        }
+
+        &Main {
+            width: 100%;
+        }
+    }
+
+    &__text {
+        width: 40%;
+    }
 }

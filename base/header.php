@@ -2,11 +2,11 @@
     <div class="container headerWrap">
         <div class="logo"><img src="/base/logo.png" alt="logo"></div>
         <ul class="navWrap">
-            <li class="nav">Про мене</li>
-            <li class="nav">Послуги</li>
-            <li class="nav">Ціни</li>
-            <li class="nav">Контакти</li>
-            <li class="nav">Новини</li>
+            <li class="nav"><a href="">Про мене</a></li>
+            <li class="nav"><a href="">Послуги</a></li>
+            <li class="nav"><a href="">Ціни</a></li>
+            <li class="nav"><a href="">Контакти</a></li>
+            <li class="nav"><a href="">Новини</a></li>
         </ul>
     </div>
     <div class="menuBurger">
