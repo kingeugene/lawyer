@@ -232,3 +232,17 @@ h1 {
         width: 40%;
     }
 }
+
+//contact
+.contact {
+    display: flex;
+    justify-content: space-between;
+
+    &__map {
+        width: 55%;
+    }
+
+    &__text {
+        width: 40%;
+    }
+}

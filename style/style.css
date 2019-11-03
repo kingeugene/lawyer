@@ -215,4 +215,15 @@ h1 {
   width: 40%;
 }
 
+.contact {
+  display: flex;
+  justify-content: space-between;
+}
+.contact__map {
+  width: 55%;
+}
+.contact__text {
+  width: 40%;
+}
+
 /*# sourceMappingURL=style.css.map */
