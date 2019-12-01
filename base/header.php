@@ -1,5 +1,5 @@
 
-<header class="header">
+<header class="header" >
     <div class="container headerWrap">
         <div class="logo"><img src="/base/logo.png" alt="logo"></div>
         <ul class="navWrap">
