@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48b02cd1-61fa-4dce-b57e-4a46729c2c4a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/base/header.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +22,6 @@
         <option value="SCSS File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>li.menu-item</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -92,7 +85,7 @@
       <updated>1572806610213</updated>
       <workItem from="1572806611923" duration="985000" />
       <workItem from="1572807775237" duration="4712000" />
-      <workItem from="1575231905894" duration="2034000" />
+      <workItem from="1575231905894" duration="2633000" />
     </task>
     <servers />
   </component>
